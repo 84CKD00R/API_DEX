@@ -1,0 +1,13 @@
+{
+  "name": "API_DEX",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Final_Version_API_DEX_Program.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "dependencies": {
+    "punycode": "^2.3.1"
+  }
+}
